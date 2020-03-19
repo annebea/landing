@@ -1,0 +1,21 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: rgb(220, 220,220);
+  opacity: 0.9;
+  color: rgb(120, 120,120);
+  font-size: 20px;
+}
+
+.links {
+  text-align: center;
+}
+
+.footer a {
+  color: #f45b69;
+  font-size: 30px
+}
+
+.footer .fas {
+  color: #f45b69;
+}

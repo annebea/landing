@@ -1,8 +1,8 @@
 .banner {
-  background-image: url('https://picsum.photos/1000/500?grayscale');
+  background-image: url('/images/background.png');
   background-size: cover;
   background-position: center;
-  color: #f45b69;
+  color: #FFFFFF;
   padding: 200px 0px;
 }
 
@@ -13,8 +13,8 @@
 
 .banner h1 {
   font-size: 50px;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
-  text-align: center;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+  /*text-align: center;*/
 }
 
 .banner p {
@@ -22,20 +22,21 @@
   font-weight: bold;
   margin-bottom: 40px;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .btn {
-  background-color: white;
+  background-color: #b80072;
   padding: 15px 25px;
-  color: rgb(100, 100, 100);
+  color: white;
   font-weight: bold;
   border-radius: 10px;
   opacity: 0.9;
+  text-align: center;
 }
 
 .btn:hover {
-  background-color: #f45b69;
+  background-color: #FFFFFF;
   opacity: 0.9;
-  color: white;
+  color: #b80072;
 }
